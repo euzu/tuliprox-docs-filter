@@ -1,0 +1,34 @@
+dist
+/resources/*.ts
+/release
+/target
+/frontend/build
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+docker/binaries
+.DS_Store
+
+*.m3u
+
+.idea
+*.iml
+
+node_modules
+yarn.lock
+*.log
+
+docker/web
+docker/tuliprox
+docker/resources
+
+# Ignore VSCode settings and files
+/.vscode
+
+.claude
